@@ -1,4 +1,4 @@
-  GNU nano 5.4                            TelegramBot.py                                      
+                             
 import openai
 from aiogram import Bot, types
 from aiogram.dispatcher import Dispatcher
